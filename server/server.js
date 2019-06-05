@@ -20,6 +20,7 @@ var ioServer = socket(server);              //setting up the socket server
 ioServer.on('connection',function(socket){
     console.log("connected to server through sockets:" + socket.id);
     console.log("What's up pasa?")
+    console.log("YOooo?")
 
     //reception of the data sent by the clients
     socket.on('text',function(data){

@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\public",
-    "\\server"
+    ""
   ],
-  "SelectedNode": "\\server\\sockets.js",
+  "SelectedNode": "\\public",
   "PreviewInSolutionExplorer": false
 }
