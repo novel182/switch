@@ -4,7 +4,7 @@
   "description": "prototype for 'switch'",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "mongoose": "^5.5.7",
     "nodemon": "^1.19.0",
     "socket.io": "^2.2.0"
